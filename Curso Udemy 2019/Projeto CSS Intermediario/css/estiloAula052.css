@@ -1,0 +1,22 @@
+/* p{
+    color : blue !important;
+}
+p{
+    color:red;
+}*/
+
+
+
+/* 
+Selecionar o item mais espeficio
+*/
+
+*{
+    color:red;
+}
+h2{
+    color: blue;
+}
+h2.verde{
+    color:green;
+}

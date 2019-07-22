@@ -1,0 +1,24 @@
+/**{
+    padding: 0;
+    margin: 0;
+    border: 1px solid red;
+}*/
+p#verde{
+    color: green;
+}
+
+li>a{
+    color: red;
+    text-decoration: none;
+}
+
+p a{
+    color: green;
+}
+
+/*h1+p{
+    color:red;
+}*/
+h1~p{
+    color:orange;
+}
